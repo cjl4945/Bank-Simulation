@@ -1,0 +1,12 @@
+../Core/Src/main.c:137:5:main	8	static
+../Core/Src/main.c:243:6:SystemClock_Config	96	static
+../Core/Src/main.c:300:13:MX_RNG_Init	8	static
+../Core/Src/main.c:326:13:MX_TIM2_Init	40	static
+../Core/Src/main.c:371:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:406:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:507:5:random_distance	40	static
+../Core/Src/main.c:522:6:StartDefaultTask	224	static
+../Core/Src/main.c:628:6:StartTellerTask01	56	static
+../Core/Src/main.c:703:6:StartTellerTask02	56	static
+../Core/Src/main.c:778:6:StartTellerTask03	56	static
+../Core/Src/main.c:849:6:Error_Handler	4	static,ignoring_inline_asm

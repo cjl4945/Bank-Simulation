@@ -1,0 +1,12 @@
+main.c:137:5:main	1
+main.c:243:6:SystemClock_Config	4
+main.c:300:13:MX_RNG_Init	2
+main.c:326:13:MX_TIM2_Init	4
+main.c:371:13:MX_USART2_UART_Init	2
+main.c:406:13:MX_GPIO_Init	1
+main.c:507:5:random_distance	1
+main.c:522:6:StartDefaultTask	7
+main.c:628:6:StartTellerTask01	12
+main.c:703:6:StartTellerTask02	12
+main.c:778:6:StartTellerTask03	12
+main.c:849:6:Error_Handler	1

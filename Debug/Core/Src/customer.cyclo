@@ -1,0 +1,4 @@
+customer.c:18:6:customer_queue_init	1
+customer.c:35:13:customer_task	1
+customer.c:46:5:customer_queue_push	3
+customer.c:66:5:customer_queue_pop	3

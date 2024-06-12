@@ -1,0 +1,6 @@
+../Core/Src/MFS.c:10:5:check_btn1	8	static
+../Core/Src/MFS.c:17:5:check_btn2	8	static
+../Core/Src/MFS.c:23:5:check_btn3	8	static
+../Core/Src/MFS.c:28:6:shiftOut	24	static
+../Core/Src/MFS.c:37:6:WriteNumberToSegment	16	static
+../Core/Src/MFS.c:47:6:displayNum	32	static

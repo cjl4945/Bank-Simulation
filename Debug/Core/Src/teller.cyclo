@@ -1,0 +1,3 @@
+teller.c:16:5:teller_init	2
+teller.c:37:5:teller_end	4
+teller.c:52:7:get_status_name	5
